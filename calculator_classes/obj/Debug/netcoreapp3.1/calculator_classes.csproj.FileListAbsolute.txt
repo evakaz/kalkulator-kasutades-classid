@@ -1,0 +1,5 @@
+C:\Users\lexae\source\repos\calculator_classes\calculator_classes\obj\Debug\netcoreapp3.1\calculator_classes.csproj.AssemblyReference.cache
+C:\Users\lexae\source\repos\calculator_classes\calculator_classes\obj\Debug\netcoreapp3.1\calculator_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lexae\source\repos\calculator_classes\calculator_classes\obj\Debug\netcoreapp3.1\calculator_classes.AssemblyInfoInputs.cache
+C:\Users\lexae\source\repos\calculator_classes\calculator_classes\obj\Debug\netcoreapp3.1\calculator_classes.AssemblyInfo.cs
+C:\Users\lexae\source\repos\calculator_classes\calculator_classes\obj\Debug\netcoreapp3.1\calculator_classes.csproj.CoreCompileInputs.cache

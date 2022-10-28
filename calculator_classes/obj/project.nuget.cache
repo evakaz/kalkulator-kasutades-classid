@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KFamYQiZhSuUD7bItd8GT8NC6XodBBKIyUE0nbcn1dmDDB1qKa3Evh4OST36Bhx6XBxycir88MyexDkxUdzQOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lexae\\source\\repos\\calculator_classes\\calculator_classes\\calculator_classes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lexae\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
