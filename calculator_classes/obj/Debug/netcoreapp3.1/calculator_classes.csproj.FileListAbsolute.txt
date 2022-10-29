@@ -3,3 +3,12 @@ C:\Users\lexae\source\repos\calculator_classes\calculator_classes\obj\Debug\netc
 C:\Users\lexae\source\repos\calculator_classes\calculator_classes\obj\Debug\netcoreapp3.1\calculator_classes.AssemblyInfoInputs.cache
 C:\Users\lexae\source\repos\calculator_classes\calculator_classes\obj\Debug\netcoreapp3.1\calculator_classes.AssemblyInfo.cs
 C:\Users\lexae\source\repos\calculator_classes\calculator_classes\obj\Debug\netcoreapp3.1\calculator_classes.csproj.CoreCompileInputs.cache
+C:\Users\lexae\source\repos\calculator_classes\calculator_classes\bin\Debug\netcoreapp3.1\calculator_classes.exe
+C:\Users\lexae\source\repos\calculator_classes\calculator_classes\bin\Debug\netcoreapp3.1\calculator_classes.deps.json
+C:\Users\lexae\source\repos\calculator_classes\calculator_classes\bin\Debug\netcoreapp3.1\calculator_classes.runtimeconfig.json
+C:\Users\lexae\source\repos\calculator_classes\calculator_classes\bin\Debug\netcoreapp3.1\calculator_classes.runtimeconfig.dev.json
+C:\Users\lexae\source\repos\calculator_classes\calculator_classes\bin\Debug\netcoreapp3.1\calculator_classes.dll
+C:\Users\lexae\source\repos\calculator_classes\calculator_classes\bin\Debug\netcoreapp3.1\calculator_classes.pdb
+C:\Users\lexae\source\repos\calculator_classes\calculator_classes\obj\Debug\netcoreapp3.1\calculator_classes.dll
+C:\Users\lexae\source\repos\calculator_classes\calculator_classes\obj\Debug\netcoreapp3.1\calculator_classes.pdb
+C:\Users\lexae\source\repos\calculator_classes\calculator_classes\obj\Debug\netcoreapp3.1\calculator_classes.genruntimeconfig.cache

@@ -6,10 +6,17 @@ namespace calculator_classes
     {
         static void Main(string[] args)
         {
-            int arv1 = 1;
-            int arv2 = 4;
-            string tehe = "+";
-            Calculator calc = new Calculator(arv1, arv2, tehe);
+            int arv1;
+            int arv2;
+            string tehe;
+            Console.WriteLine("Enter a number: ");
+            arv1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter a second number: ");
+            arv2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter an operation: ");
+            tehe = Console.ReadLine();
+            Console.WriteLine(Calculator.perform(arv1, arv2, tehe));
+            Console.ReadKey();
         }
     }
 }
